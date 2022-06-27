@@ -1,0 +1,1 @@
+Olá, este é uma Landing Page usando as tecnologias HTML, CSS e responsividade.
